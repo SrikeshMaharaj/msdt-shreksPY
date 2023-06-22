@@ -27,8 +27,8 @@ parser.add_argument(
 parser.add_argument(
     "--output",
     "-o",
-    default="./follina.doc",
-    help="output maldoc file (default: ./follina.doc)",
+    default="./shreksPY.doc",
+    help="output maldoc file (default: ./shreksPY.doc)",
 )
 
 parser.add_argument(
